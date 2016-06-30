@@ -19,6 +19,7 @@ namespace CoreAdvogadoFacil
                 .Build();
 
             host.Run();
+
         }
     }
 }
